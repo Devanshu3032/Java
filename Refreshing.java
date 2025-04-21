@@ -26,7 +26,7 @@ public class Refreshing {
 
         // Step 3: Print the rotated matrix
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+            for (int j = 1; j < n; j++) {
                 System.out.print(arr[i][j] + " ");
             }
             System.out.println();

@@ -29,7 +29,7 @@ public class Refreshing {
             for (int j = 0; j < n; j++) {
                 System.out.print(arr[i][j] + " ");
             }
-            System.out.println(arr[i][j]);
+            System.out.println();
         }
     }
 }

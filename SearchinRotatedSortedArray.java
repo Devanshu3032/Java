@@ -6,7 +6,7 @@ public class SearchinRotatedSortedArray {
         for(int i = 0 ; i < arr.length ; i++){
             if(arr[i] == key ){
                 target = i ; 
-                break ;
+                
             } 
         }
         System.out.println("The target is found at index: " + target);

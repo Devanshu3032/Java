@@ -7,7 +7,7 @@ public class PeakElementM3 {
         for(int i = 0 ; i < arr.length ; i++){
            if(arr[i] > max ){
                max = arr[i] ; 
-               peak = ooooo ;
+               peak = oooo ;
            }
         }
         System.out.println("Peak Element is: " + peak);

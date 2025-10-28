@@ -1,0 +1,21 @@
+function : 
+block of code which take input perform operation and give output 
+
+syntax: 
+	returnType functionName(type ag1 , arg2){
+
+		// operation
+		}
+	    
+
+	return type -> (int, float ,string ,void(no return -> nothing will return))
+	function Name -> any thing other than keyword of java.
+	argument -> must define type first (ex: int age, float temp), multiple arg in single 		       function.
+
+
+Q1. print my name in a function 
+=>
+public static void printMyName(String name){
+		System.out.println(name);
+		return ; 
+		}

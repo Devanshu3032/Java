@@ -1,8 +1,8 @@
 import java.util.*;;
 public class ProductTwoNumber {
     public static void Product(float a , float b){
-       float mul = a*b ; 
-       System.out.println(mul);
+       float mul = a*b ;
+       System.out.printf("product of %f and %f  is : %f " , a, b , mul);
        return ; 
     }
 
